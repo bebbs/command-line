@@ -1,0 +1,1 @@
+grep is used to search within files. It outputs any lines that match the expression (plain text or regex) given as a parameter to grep.
